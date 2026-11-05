@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "===== FLAG START ====="
+cat /flag.txt 2>&1
+echo "===== FLAG END ====="
